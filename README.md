@@ -1,5 +1,5 @@
-# Group TEAM_NUMBER
-Group Name: TEAM_NAME
+# Group 48
+Group Name: Group 48
 
 [MVP Link](https://docs.google.com/document/d/1fmsgjmCfP0jPmGlfPmn4rKKe3nCpisCOpdRRfGU8YF8/edit?usp=sharing)
 
